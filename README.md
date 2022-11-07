@@ -1,6 +1,8 @@
 # 0x16. C - Simple Shell
 
 ## About 
++ Coding my own shell 
+
 ## Requirements
 + Editors: vi, vim, emacs
 + Ubuntu 20.04 LTS using gcc
